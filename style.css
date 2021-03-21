@@ -1,13 +1,15 @@
-body{
+body {
 	margin: 0;
 	padding: 0;
 	background: #e74c3c;
 	font-family: "Montserrat";
 }
-.color{
+
+.color {
 	margin-top: 300px;
 	text-align: center;
 }
+
 #hex{
 	display: block;
 	color: white;
@@ -15,6 +17,7 @@ body{
 	text-transform: uppercase;
 	margin: 20px;
 }
+
 .color button{
 	background: none;
 	outline: none;
@@ -24,6 +27,7 @@ body{
 	font-size: 24px;
 
 }
+
 .color button:hover {
 	border-color: white;
 	color: red;
